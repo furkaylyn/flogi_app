@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913970586752",
+    "project_id": "flogi-on-muhasebe",
+    "storage_bucket": "flogi-on-muhasebe.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913970586752:android:28688c4371e854b7c97265",
+        "android_client_info": {
+          "package_name": "com.example.on_muhasebe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXbFQXW5nJbH16COyUOFxFkJGBFDwWyLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
